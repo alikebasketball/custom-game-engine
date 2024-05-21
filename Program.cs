@@ -1,3 +1,3 @@
 ﻿
-using var game = new custom_game_engine.Game1();
+using var game = new custom_game_engine.MainGame();
 game.Run();
